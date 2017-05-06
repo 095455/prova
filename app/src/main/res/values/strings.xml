@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prova</string>
+    <string name="country_prompt">Escolha um continente</string>
+
+    <string-array name="continente_arrays">
+        <item>Africa</item>
+        <item>America</item>
+        <item>Asia</item>
+        <item>Oceania</item>
+        <item>Europa</item>
+
+    </string-array>
+
+</resources>
